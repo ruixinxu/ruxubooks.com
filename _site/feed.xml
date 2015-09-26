@@ -4,10 +4,10 @@
     <title>ruxubooks</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://ruxubooks.com/ruxubooks/</link>
-    <atom:link href="http://ruxubooks.com/ruxubooks/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 26 Sep 2015 19:55:09 +0800</pubDate>
-    <lastBuildDate>Sat, 26 Sep 2015 19:55:09 +0800</lastBuildDate>
+    <link>http://www.ruxubooks.com/</link>
+    <atom:link href="http://www.ruxubooks.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 26 Sep 2015 20:22:57 +0800</pubDate>
+    <lastBuildDate>Sat, 26 Sep 2015 20:22:57 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Sat, 26 Sep 2015 19:06:07 +0800</pubDate>
-        <link>http://ruxubooks.com/ruxubooks/jekyll/update/2015/09/26/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://ruxubooks.com/ruxubooks/jekyll/update/2015/09/26/welcome-to-jekyll.html</guid>
+        <link>http://www.ruxubooks.com/jekyll/update/2015/09/26/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://www.ruxubooks.com/jekyll/update/2015/09/26/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
