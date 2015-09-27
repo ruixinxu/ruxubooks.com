@@ -2,24 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
      
     <url>
-        <loc>http://localhost:4000/</loc>
+        <loc>http://ruxubooks.com/</loc>
     </url> 
     <url>
-        <loc>http://localhost:4000/documentation</loc>
+        <loc>http://ruxubooks.com/categories</loc>
     </url> 
     <url>
-        <loc>http://localhost:4000/categories</loc>
+        <loc>http://ruxubooks.com/tags</loc>
     </url> 
     <url>
-        <loc>http://localhost:4000/tags</loc>
-    </url> 
-    <url>
-        <loc>http://localhost:4000/ruixinxu</loc>
+        <loc>http://ruxubooks.com/ruixinxu</loc>
     </url>
     
     
     <url>
-        <loc>http://localhost:4000/jekyll/update/welcome-to-jekyll</loc>
+        <loc>http://ruxubooks.com/ruxu-life/be-happy-if-not-be-crazy</loc>
     </url>
     
 </urlset>
