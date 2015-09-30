@@ -1,5 +1,6 @@
 ---
 layout: post
+type: blog
 title:  "安吉拉和徐木木"
 date:   2015-06-27 04:43:00
 categories: ruxu-life

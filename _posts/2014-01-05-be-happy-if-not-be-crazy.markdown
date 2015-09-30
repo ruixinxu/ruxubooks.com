@@ -1,5 +1,6 @@
 ---
 layout: post
+type: blog
 title:  "Be happy, if not, be crazy"
 date:   2014-01-05 19:36:00
 categories: ruxu-life
