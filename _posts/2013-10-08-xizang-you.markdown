@@ -181,9 +181,9 @@ to be added
 
 ### 相关游记
 
-马蜂窝的西藏路书：http://www.mafengwo.cn/mdd/smap.php?mddid=10025
+马蜂窝的[西藏路书](http://www.mafengwo.cn/mdd/smap.php?mddid=10025)
 
-西藏阿里无人区惊魂72小时 http://blog.sina.com.cn/s/blog_4855466e0101dwm9.html 。这是在Bellevue遇到的梅姐姐听说我要去西藏推荐我读的，虽然阿里并没在我们的行程上，但是这个帖子给我奠定了良好的心理基础，让我为一路上遇到的一些问题做好了心理建设，推荐阅读。
+[西藏阿里无人区惊魂72小时](http://blog.sina.com.cn/s/blog_4855466e0101dwm9.html) 。这是在Bellevue遇到的梅姐姐听说我要去西藏推荐我读的，虽然阿里并没在我们的行程上，但是这个帖子给我奠定了良好的心理基础，让我为一路上遇到的一些问题做好了心理建设，推荐阅读。
 
 ## 后记
 
