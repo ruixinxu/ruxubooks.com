@@ -194,7 +194,7 @@ tags: [ruxu-life, ruxu-reading, ruxu-travel]
 	                <div class="post-body bordered-bottom">
 	                {% assign excerptsize = post.excerpt | number_of_words %}
 	                {% if excerptsize <= 100 and excerptsize >= 50 %}<p class = "lead">{{ post.excerpt | strip_html }}&hellip;</p>{% else %}
-		                <div style = "width: 770px; height: 450px; overflow: hidden; text-overflow:ellipsis; white-space:pre-wrap;">
+		                <div style = "width: 770px; height: 400px; overflow: hidden; text-overflow: ellipsis; white-space: pre-wrap;">
 		                    <p>{{ post.content | strip_html | truncatewords:100 }}&hellip;</p>{% endif %}
 		                </div>
 	                    <div class="text-center">
