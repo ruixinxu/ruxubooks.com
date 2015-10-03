@@ -1,0 +1,11 @@
+---
+layout: Quote
+title:  "雨 打雷"
+date:   2011-07-16 22:28:01
+categories: ruxu-life
+tags: [ruxu-life]
+
+comments: true
+share: true
+---
+于是就把窗子关上，拉上窗帘，闷是稍有些的，但是这样至少世界都安静了。说下雨是天与地的交媾，创造了万物。
