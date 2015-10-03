@@ -1,6 +1,6 @@
 ---
 layout: post
-type: quote
+type: blog
 title:  "雨 打雷"
 date:   2011-07-16 22:28:01
 categories: ruxu-life
