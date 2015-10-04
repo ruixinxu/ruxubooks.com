@@ -1,0 +1,12 @@
+---
+layout: post
+type: blog
+title:  "过年"
+date:   2010-02-26 08:58:11
+categories: ruxu-life
+tags: [ruxu-life]
+
+comments: true
+share: true
+---
+“是对各种社会角色的中断，使人返回赤子本源，有可能从源头上重新打量自己的生存。说到底，除了感激父母养育之恩，好像没有什么事情不可以暂停。”
