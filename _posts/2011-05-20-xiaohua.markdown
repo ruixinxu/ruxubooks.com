@@ -4,7 +4,7 @@ type: blog
 title:  "陪伴囧木度过闭关论文日子里的几个真实的低笑点笑话（慎入）"
 date:   2011-05-20 22:07:11
 categories: ruxu-life
-tags: [life]
+tags: [ruxu-life]
 
 comments: true
 share: true

@@ -4,7 +4,7 @@ type: blog
 title:  "Be happy, if not, be crazy"
 date:   2014-01-05 19:36:00
 categories: ruxu-life
-tags: [life]
+tags: [ruxu-life]
 
 comments: true
 share: true

@@ -4,7 +4,7 @@ type: blog
 title:  "今天我要讲一个关于她的还没有结束的故事"
 date:   2011-11-02 23:33:26
 categories: ruxu-life
-tags: [life]
+tags: [ruxu-life]
 
 comments: true
 share: true

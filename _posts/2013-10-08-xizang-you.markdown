@@ -4,7 +4,7 @@ type: blog
 title:  "一只抱大腿的电灯泡的西藏十五日游"
 date:   2013-10-08 17:29:00
 categories: ruxu-life
-tags: [life]
+tags: [ruxu-life]
 
 comments: true
 share: true
