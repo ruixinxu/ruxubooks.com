@@ -21,6 +21,13 @@
                 <i class="icon-google-plus"></i>
             </a>
       </li>
-     
+    <li>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"> </script>
+        <script type="text/javascript" src="../assets/js/plugins/jquery.qrcode.js"></script>
+        <script type="text/javascript" src="../assets/js/plugins/qrcode.js"></script>
+        <script>
+            jquery('#qrcodeCanvas').qrcode({text: {{site.url}}{{page.url}}});
+        </script>
+    </li>
     </ul>
 </div>
