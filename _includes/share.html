@@ -21,13 +21,11 @@
                 <i class="icon-google-plus"></i>
             </a>
       </li>
-    <li>
+    <div id = "output"> </div>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"> </script>
-        <script type="text/javascript" src="{{ site.url }}/assets/js/plugins/jquery.qrcode.js"></script>
-        <script type="text/javascript" src="{{ site.url }}/assets/js/plugins/qrcode.js"></script>
+        <script type="text/javascript" src="{{ site.url }}/assets/js/plugins/jquery.qrcode.min.js"></script>
         <script>
-            jquery('#qrcodeCanvas').qrcode({text: "{{ site.url }}{{page.url}}"});
+            jQuery('#output').qrcode("{{ site.url }}{{page.url}}");
         </script>
-    </li>
     </ul>
 </div>
