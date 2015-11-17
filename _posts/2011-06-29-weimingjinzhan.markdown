@@ -11,5 +11,11 @@ share: true
 by: MuMu
 
 先是mayday的笑忘歌
+<figure>
+<a href="{{ site.url }}/images/xiaowangge.jpg"><img src="{{ site.url }}/images/xiaowangge.jpg"></a>
+</figure>
 
 今天又换成了海绵宝宝和派大星
+<figure>
+<a href="{{ site.url }}/images/biyehaibao.jpg"><img src="{{ site.url }}/images/biyehaibao.jpg"></a>
+</figure>
