@@ -10,6 +10,7 @@ share: true
 ---
 by: Mumu
 
+
 Around two weeks ago, ruxubooks ([@facebook](https://www.facebook.com/ruxubooks/), [@meetup](http://www.meetup.com/Ruxubooks-%E5%A6%82%E8%AE%B8%E9%98%85%E8%AF%BB/)) held one book exchange meetup event in Singapore. As the first step to my **"book dream"** it was far away from perfect. Even so, I am still proud of myself and full of gratitude for him and her who gave me inspiration and encouragement.
 
 I have been asking myself what exactly is my **"book dream"**? To be honest, I don't know the answer yet. The original motivation came from my ultimate life goal: if I could do only one thing in my life, I would want to be a mother---the biggest impact I could bring to this world. Intentionally or not, parental influence to each of us can hardly be avoided.
