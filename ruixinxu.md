@@ -2,7 +2,7 @@
 layout: page
 permalink: /ruixinxu/
 title: Ruixin Xu
-tags: 
+tags:
 image:
   feature: bobreading.jpg
 ---
@@ -13,4 +13,4 @@ image:
 
 Booklover
 
-ruixin.xu@Gmail.com
+ruxubooks@Gmail.com

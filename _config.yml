@@ -1,5 +1,5 @@
 title:            ruxubooks
-description:      "问渠那得清如许 唯有源头活水来"
+description:      "问渠那得清如许 为有源头活水来"
 logo:             book.png
 disqus_shortname: ruxubooks
 # Assign a default image for your site's header and footer
@@ -16,7 +16,7 @@ animated_fins:	  true
 # Specify the fin color in RGB value
 fin_color:        "255,255,255"
 # Change url to your domain. Leave localhost server or blank when working locally.
-# or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
+# or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
 url:       		   "http://ruxubooks.com"
 #url:       		   "localhost:4000"
@@ -26,7 +26,7 @@ url:       		   "http://ruxubooks.com"
 owner:
   name:           ruixinxu
   avatar:         bobreading.jpg
-  email:          ruixin.xu@gmail.com
+  email:          ruxubooks@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
 #description:    Hossain Mohammad Faysal is an Electrical Engineer and a Mathematician based in Doha, Qatar. His interests are anything that&#8217;s related to math, from math itself to programming languages to music to physics to engineering to philosophy.
   # Social networking links used in footer. Update and remove as you like.
@@ -44,9 +44,9 @@ owner:
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   UA-39365944-7
-google_verify:      
+google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+bing_verify:
 
 # Links to include in footer navigation
 # For external links add external: true
@@ -81,7 +81,7 @@ kramdown:
   use_coderay: false
 
   coderay:
-    coderay_line_numbers: 
+    coderay_line_numbers:
     coderay_line_numbers_start: 1
     coderay_tab_width: 4
     coderay_bold_every: 10
@@ -111,7 +111,7 @@ prose:
           placeholder: "Choose your type"
           options:
             - name: "Standard"
-              value: 
+              value:
             - name: "Quote"
               value: quote
             - name: "Status"
