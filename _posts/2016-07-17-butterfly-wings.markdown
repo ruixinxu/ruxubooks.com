@@ -8,7 +8,6 @@ tags: [ruxu-life]
 comments: true
 share: true
 ---
-
 by: Mumu
 
 Around two weeks ago, ruxubooks held one book exchange meetup event in Singapore. As the first step to my "book dream" it was far away from perfect. Even so, I am still proud of myself and full of gratitude for him and her who gave me inspiration and encouragement.
@@ -33,24 +32,40 @@ If you are a booklover or has passion about reading and sharing drop me a line r
 
 [1]. "ruxubooks":
 
->>"ruxu" comes from Zhu Xi's poem <The Book> written more than 800 years ago. The oblong pool is a metaphor for book reading. It is not a pool of stagnant water because there is always fresh water flowing in. The last two lines of the poem are frequently quoted to indicate that if people can be broad-minded enough to tolerate and embrace different ideas, they will be able to have ever-flowing fresh thoughts.
->>"ruxu" is also the alias (unique id) during my first job :)
+- "ruxu" comes from Zhu Xi's poem <The Book> written more than 800 years ago. The oblong pool is a metaphor for book reading. It is not a pool of stagnant water because there is always fresh water flowing in. The last two lines of the poem are frequently quoted to indicate that if people can be broad-minded enough to tolerate and embrace different ideas, they will be able to have ever-flowing fresh thoughts.
+- "ruxu" is also the alias (unique id) during my first job :)
 
 The Book
+
 观书有感
+
 ɡuān shū yǒu ɡǎn
 
+
+
 Zhu Xi
+
 朱熹（宋）
+
 Zhū Xī （Sònɡ）
 
+
+
 There lies a glassy oblong pool,
+
 Bàn mǔ fānɡ tánɡ yí jiàn kāi,
+
 半亩方塘一鉴开，
 
+
+
 Where light and shade pursue their course.
+
 tiān ɡuānɡ yún yǐnɡ ɡònɡ páihuái.
+
 天光云影共徘徊。
+
+
 
 How could it be so clear and cool?
 Wèn qú nǎ dé qīnɡ rúxǔ,
