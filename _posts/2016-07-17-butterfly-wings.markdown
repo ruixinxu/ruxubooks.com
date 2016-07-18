@@ -30,13 +30,14 @@ July-2nd, 2016 is my first year anniversary of coming to Singapore. The book exc
 
 If you are a booklover or has passion about reading and sharing drop me a line [ruxubooks@gmail.com](mailto:ruxubooks@gmail.com).
 
+```
 [1]. "ruxubooks":
 
   - "ruxu" comes from Zhu Xi's poem <The Book> written more than 800 years ago. The oblong pool is a metaphor for book reading. It is not a pool of stagnant water because there is always fresh water flowing in. The last two lines of the poem are frequently quoted to indicate that if people can be broad-minded enough to tolerate and embrace different ideas, they will be able to have ever-flowing fresh thoughts.
 
   - "ruxu" is also the alias (unique id) during my first job :)
 
-```
+
 The Book
 观书有感
 ɡuān shū yǒu ɡǎn
