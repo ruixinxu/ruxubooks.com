@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "一颗苹果"
+date:   2019-06-09 00:30:01
+categories: ruxu-life
+tags: [ruxu-life]
+
+comments: true
+share: true
+---
+by: mumu
+
+<figure>
+<a href="{{ site.url }}/images/xiaowangge.jpg"><img src="{{ site.url }}/images/xiaowangge.jpg"></a>
+</figure>
+
+
+<audio controls preload="none" style="width:480px;">
+ <source src="{{ site.url }}/images/yikepingguo.m4a" type="audio/mp4" />
+  <p>Your browser does not support HTML5 audio.</p>
+ </audio>
+ <p>
+ <strong>Download Audio:</strong>
+ <a href="{{ site.url }}/images/yikepingguo.m4a">M4A</a>
+ </p>
