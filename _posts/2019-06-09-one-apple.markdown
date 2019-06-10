@@ -26,12 +26,18 @@ by: mumu
 
 从科学会堂的《倔强》到北大西门的《离开地球表面》；从毕业季的《笑忘歌》到刚开始工作时候的《开天窗》；从上海张江的《志明与春娇》到新加坡的《春娇救志明》。五月天的音乐好像无数小碎片，藏在我大脑回路的一个个角落里。第一次实习，和万在杏坛路边走边哼“听说悟净已经植发治好秃头，有了论及婚嫁的女友，八戒这颗猪头手机老是不通，好色本性多隽永，好像时间从来没走”；第一次看演唱会，跟鸡精、金子还有小丁从头唱到尾，散场之后，大家意犹未尽并排在白石桥下大吼“如果能有一天，再一次重返光荣，记得找我，我的好朋友”。
 
-<audio controls preload="none" style="width:480px;">
+<audio controls preload="none" >
  <source src="{{ site.url }}/images/zhizu-wan.mp3" type="audio/mp3" />
   <p>Your browser does not support HTML5 audio.</p>
 </audio>
 
-小丁考完随机沮丧地找我取应急灯，我在41楼下劝她失望别绝望，她皱眉问“你要在风中大声的唱吗”？当年工体DNA散场之后，她不顾赶不上末班车的风险坚持淘周边，昏黄的灯光下有小贩拿罗志祥的卡片充当怪兽卖，也逃不过她的火眼金睛。我们从工体走到三里屯过意大利大使馆，她一路走一路花痴杏红是她的最爱，她的理想就是嫁给杏红听他唱深情版的《恋爱ING》。阿信的偶像是海绵宝宝，我特地穿了偶像的偶像去看了偶像的演唱会，第二天衣服没换又穿着海绵宝宝见了另一个“宝宝”。
+小丁考完随机沮丧地找我取应急灯，我在41楼下劝她失望别绝望，她皱眉问“你要在风中大声的唱吗”？当年工体DNA散场之后，她不顾赶不上末班车的风险坚持淘周边，昏黄的灯光下有小贩拿罗志祥的卡片充当怪兽卖，也逃不过她的火眼金睛。我们从工体走到三里屯过意大利大使馆，她一路走一路花痴杏红是她的最爱，她的理想就是嫁给杏红听他唱深情版的《恋爱ING》。
+
+<figure>
+<a href="{{ site.url }}/images/asin-haimian.jpg"><img src="{{ site.url }}/images/asin-haimian.jpg"></a>
+</figure>
+
+阿信的偶像是海绵宝宝，我特地穿了偶像的偶像去看了偶像的演唱会，第二天衣服没换又穿着海绵宝宝见了另一个“宝宝”。
 
 11年毕业季，未名bbs进站特别贴心的出了一版《笑忘歌》。
 <figure>
@@ -51,7 +57,7 @@ by: mumu
 
 17年夏天，在我快离开新加坡之前的一个晚上，瑾瑜拿小提琴给我们演奏了《一颗苹果》，记录了yulu的茫然liubo的淡定和我的惊喜，胜过五月天的无数live。
 
-<audio controls preload="none" style="width:480px;">
+<audio controls preload="none" >
  <source src="{{ site.url }}/images/yikepingguo.m4a" type="audio/mp4" />
   <p>Your browser does not support HTML5 audio.</p>
 </audio>
