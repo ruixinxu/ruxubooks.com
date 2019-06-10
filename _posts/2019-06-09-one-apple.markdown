@@ -39,6 +39,10 @@ by: mumu
 
 阿信的偶像是海绵宝宝，我特地穿了偶像的偶像去看了偶像的演唱会，第二天衣服没换又穿着海绵宝宝见了另一个“宝宝”。
 
+<figure>
+<a href="{{ site.url }}/images/haimian-baobao.jpg"><img src="{{ site.url }}/images/haimian-baobao.jpg"></a>
+</figure>
+
 11年毕业季，未名bbs进站特别贴心的出了一版《笑忘歌》。
 <figure>
 <a href="{{ site.url }}/images/xiaowangge.jpg"><img src="{{ site.url }}/images/xiaowangge.jpg"></a>
