@@ -65,9 +65,9 @@ links:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Singapore
 future:      true
-highlighter: pygments
-markdown:    kramdown
-paginate:    6
+highlighter: rouge
+markdown:    markdown
+paginate:    8
 paginate_path: "page:num"
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
