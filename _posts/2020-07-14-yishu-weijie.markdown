@@ -2,8 +2,8 @@
 layout: post
 title:  "艺术的慰藉"
 date:   2020-07-14 14:30:01
-categories: ruxu-life
-tags: [ruxu-life]
+categories: ruxu-reading
+tags: [ruxu-reading]
 
 comments: true
 share: true
