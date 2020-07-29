@@ -15,7 +15,7 @@ by: mumu
 ## The ride of a lifetime
 
 <figure>
-<a href="{{ site.url }}/images/ride-of-a-life-time.jpg"><img src="{{ site.url }}/images/ride-of-a-life-time.jpg"></a>
+<a href="{{ site.url }}/images/ride-of-a-life-time.jpg"><img src="{{ site.url }}/images/ride-of-a-life-time.jpg" height="600"></a>
 </figure>
 
 迪斯尼CEO Robert Iger的商业回忆录，原版副标题是Lessons Learned from 15 Years as CEO of the Walt Disney Company，中文版的标题是《一生的旅程：迪士尼CEO自述批量打造超级IP的经营哲学》，听说比尔盖茨还曾“罕见写了2000字的推荐”，号称“神级领导力教科书”。我很好奇神级领导力到底神在哪，不过在开始读之前看到“Lessons learned”、“经营哲学”、“比尔盖茨推荐”等标签，还是条件反射的有了偏见：这一定是一本字大行粗，鸡血满满的商业吹捧之作，并且在不久的将来就会占领（或许已经占领过了）机场书店展台的最醒目位置。某天下午当我真的开始读起来，一页接着一页，感觉好像在追都市职场剧《罗伯特升职记》，一集接着一集，根本不想停下来——果然是最会讲故事的公司的CEO，回忆录相当引人入胜。
@@ -41,7 +41,7 @@ by: mumu
 
 ## 冬牧场
 <figure>
-<a href="{{ site.url }}/images/dongmuchang.jpg"><img src="{{ site.url }}/images/dongmuchang.jpg" height="700"></a>
+<a href="{{ site.url }}/images/dongmuchang.jpg"><img src="{{ site.url }}/images/dongmuchang.jpg" height="600"></a>
 </figure>
 
 读前两本书像看现代都市剧的话，读李娟的《冬牧场》就好像看穿越剧：一个现代社会的汉族女子穿越到古老的哈萨克牧区，跟着牧民在严寒的天气下转场，用羊粪盖地窝子，赶小牛，放羊，背雪喝，秀花毡，缝补破衣服，解说电视内容。
