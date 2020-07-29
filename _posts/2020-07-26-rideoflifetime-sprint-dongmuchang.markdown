@@ -41,7 +41,7 @@ by: mumu
 
 ## 冬牧场
 <figure>
-<a href="{{ site.url }}/images/dongmuchang.jpg"><img src="{{ site.url }}/images/dongmuchang.jpg"></a>
+<a href="{{ site.url }}/images/dongmuchang.jpg"><img src="{{ site.url }}/images/dongmuchang.jpg" height="700"></a>
 </figure>
 
 读前两本书像看现代都市剧的话，读李娟的《冬牧场》就好像看穿越剧：一个现代社会的汉族女子穿越到古老的哈萨克牧区，跟着牧民在严寒的天气下转场，用羊粪盖地窝子，赶小牛，放羊，背雪喝，秀花毡，缝补破衣服，解说电视内容。
